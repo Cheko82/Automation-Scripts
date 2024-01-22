@@ -9,6 +9,4 @@ Here are some automation scripts written in either py or bash. Add them to your 
 link: https://github.com/Cheko82/Automation-Scripts/blob/main/start.py<br>
 #### Adding this to startup
 Well... figure it out on your own.<br>
-But for i3wm. Add this to `.config/i3/config`:<br>
-`exec_always --no-startup-id python3 /path/to/script`
-
+I just run it from the terminal after startup
